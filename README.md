@@ -7,7 +7,8 @@ Fecha: 2016
 
 Configuración:
 
--- Versión de PHP: 5.4.16 -- Base de datos: PostgreSQL version 9.4.7 nombre=webglosario
+-- Versión de PHP: 5.4.16 
+-- Base de datos: PostgreSQL version 9.4.7 nombre=webglosario
 
 INSTRUCCIONES:
 
