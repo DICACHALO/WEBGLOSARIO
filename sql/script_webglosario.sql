@@ -1,4 +1,9 @@
-﻿-- *******************************************************
+﻿-- Fecha: 31 de Julio de 2016
+-- Versión de PHP: 5.4.16 
+-- Base de datos: PostgreSQL version 9.4.7 nombre=webglosario
+-- Programadora: Diana Carolina Chacón López
+
+-- *******************************************************
 -- INSTRUCCIONES PARA BORRAR LAS TABLAS                  *
 -- *******************************************************
 DROP TABLE tab_concepto;
