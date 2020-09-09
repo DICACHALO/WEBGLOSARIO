@@ -13,4 +13,4 @@ Configuración:
 INSTRUCCIONES:
 
     Cambiar en el archivo conexion.php por los datos de conexión a la base de datos
-    En la carpeta /script/ se encuentran las instrucciones SQL para la creación de tablas
+    En la carpeta /sql/ se encuentran las instrucciones SQL para la creación de tablas
